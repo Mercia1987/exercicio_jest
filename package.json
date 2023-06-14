@@ -7,8 +7,8 @@
   },
   "author": "Mercia Souza",
   "license": "ISC",
-  "description": ""
+  "description": "",
   "devDependencies": {
     "jest": "^29.5.0"
-  },
+  }
 }
